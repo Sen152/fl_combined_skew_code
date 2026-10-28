@@ -1,0 +1,15 @@
+{
+  "device": "NVIDIA GeForce RTX 5090 D",
+  "domain_mode": "two_domain",
+  "split_seed": 2026,
+  "test_frac": 0.2,
+  "n_train": 7995,
+  "n_test": 1996,
+  "heldout_final_accuracy": 0.8612224448897795,
+  "heldout_per_domain": {
+    "art_painting": 0.7750611246943765,
+    "cartoon": 0.8717948717948718,
+    "photo": 0.8203592814371258,
+    "sketch": 0.9171974522292994
+  }
+}

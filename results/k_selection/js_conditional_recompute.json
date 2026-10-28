@@ -1,0 +1,121 @@
+{
+  "recompute_note": "post-hoc recompute, validated bit-exact on JS_joint/label/feature",
+  "max_validation_err": 0.0,
+  "JS_conditional_R2": 0.7521468853180828,
+  "p": 0.0002585915613853117,
+  "n": 12,
+  "points": [
+    {
+      "file": "aL0.05_aF0.05_seed42.json",
+      "aL": 0.05,
+      "aF": 0.05,
+      "acc": 0.6977,
+      "JS_conditional": 0.30577108800364977
+    },
+    {
+      "file": "aL0.05_aF0.1_seed42.json",
+      "aL": 0.05,
+      "aF": 0.1,
+      "acc": 0.7317,
+      "JS_conditional": 0.2840564839377249
+    },
+    {
+      "file": "aL0.05_aF0.3_seed42.json",
+      "aL": 0.05,
+      "aF": 0.3,
+      "acc": 0.7336,
+      "JS_conditional": 0.24259341718827174
+    },
+    {
+      "file": "aL0.05_aF1.0_seed42.json",
+      "aL": 0.05,
+      "aF": 1.0,
+      "acc": 0.7425,
+      "JS_conditional": 0.21573680187018246
+    },
+    {
+      "file": "aL0.1_aF0.05_seed42.json",
+      "aL": 0.1,
+      "aF": 0.05,
+      "acc": 0.7484,
+      "JS_conditional": 0.24324299372901717
+    },
+    {
+      "file": "aL0.1_aF0.3_seed42.json",
+      "aL": 0.1,
+      "aF": 0.3,
+      "acc": 0.7575,
+      "JS_conditional": 0.22024932347198678
+    },
+    {
+      "file": "aL0.3_aF0.05_seed42.json",
+      "aL": 0.3,
+      "aF": 0.05,
+      "acc": 0.7324,
+      "JS_conditional": 0.2858222203722281
+    },
+    {
+      "file": "aL0.3_aF0.3_seed42.json",
+      "aL": 0.3,
+      "aF": 0.3,
+      "acc": 0.7476,
+      "JS_conditional": 0.23084831441888715
+    },
+    {
+      "file": "aL0.5_aF0.05_seed42.json",
+      "aL": 0.5,
+      "aF": 0.05,
+      "acc": 0.7066,
+      "JS_conditional": 0.3274370520375327
+    },
+    {
+      "file": "aL0.5_aF0.3_seed42.json",
+      "aL": 0.5,
+      "aF": 0.3,
+      "acc": 0.7251,
+      "JS_conditional": 0.2653538590699232
+    },
+    {
+      "file": "aL1.0_aF0.05_seed42.json",
+      "aL": 1.0,
+      "aF": 0.05,
+      "acc": 0.6993,
+      "JS_conditional": 0.3330445397997698
+    },
+    {
+      "file": "aL1.0_aF0.3_seed42.json",
+      "aL": 1.0,
+      "aF": 0.3,
+      "acc": 0.7129,
+      "JS_conditional": 0.26177942455074127
+    }
+  ],
+  "label_only_points": [
+    {
+      "file": "label_only_aL0.05_aF1000.0_seed42.json",
+      "aL": 0.05,
+      "acc": 0.7315,
+      "JS_conditional": 0.5242799609187418
+    },
+    {
+      "file": "label_only_aL0.1_aF1000.0_seed42.json",
+      "aL": 0.1,
+      "acc": 0.7381,
+      "JS_conditional": 0.3785804759570033
+    },
+    {
+      "file": "label_only_aL0.3_aF1000.0_seed42.json",
+      "aL": 0.3,
+      "acc": 0.7903,
+      "JS_conditional": 0.32103927523767284
+    },
+    {
+      "file": "label_only_aL0.5_aF1000.0_seed42.json",
+      "aL": 0.5,
+      "acc": 0.8163,
+      "JS_conditional": 0.29738279486329283
+    }
+  ],
+  "label_only_JS_conditional_R2": 0.7053046256817928,
+  "label_only_max_validation_err": 0.0
+}

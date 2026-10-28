@@ -1,0 +1,17 @@
+{
+  "skew_type": "label_only",
+  "alpha_label": 0.5,
+  "alpha_feature": 1000.0,
+  "final_accuracy": 0.8163,
+  "final_loss": 0.5597801197528839,
+  "metrics": {
+    "JS_joint": 0.39581983238134383,
+    "JS_label": 0.30266309076328196,
+    "JS_feature": 0.3061527814040987,
+    "JS_conditional": 0.29738279486329283,
+    "EMD_label": 0.9798521154337414,
+    "EMD_feature": 9.297873913475327,
+    "Cov_basic": 0.07680546,
+    "Cov_weighted": 0.5534522681450043
+  }
+}

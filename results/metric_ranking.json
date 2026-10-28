@@ -1,0 +1,110 @@
+{
+  "ranking": [
+    {
+      "metric": "EMD_feature",
+      "category": "\u7279\u5f81\u5206\u5e03",
+      "r": -0.7483263899741488,
+      "r_squared": 0.5599923859317418,
+      "p_value": 0.0032571144088446692,
+      "spearman_rho": -0.10729033533674225,
+      "n_points": 13
+    },
+    {
+      "metric": "alpha_feature_value",
+      "category": "\u95f4\u63a5\u6307\u6807",
+      "r": 0.6020638117691748,
+      "r_squared": 0.3624808334420283,
+      "p_value": 0.004971968402413585,
+      "spearman_rho": 0.5014174048828121,
+      "n_points": 20
+    },
+    {
+      "metric": "JS_joint",
+      "category": "\u8054\u5408\u5206\u5e03\uff08\u6211\u4eec\u63d0\u51fa\u7684\uff09",
+      "r": -0.5439448169335986,
+      "r_squared": 0.2958759638689261,
+      "p_value": 0.004943269531148992,
+      "spearman_rho": -0.145797271402513,
+      "n_points": 25
+    },
+    {
+      "metric": "Cov_weighted",
+      "category": "\u8054\u5408\u8986\u76d6\u5ea6",
+      "r": 0.5065157606771667,
+      "r_squared": 0.2565582158143689,
+      "p_value": 0.009773299005196547,
+      "spearman_rho": 0.11502212176609862,
+      "n_points": 25
+    },
+    {
+      "metric": "JS_feature",
+      "category": "\u7279\u5f81\u5206\u5e03",
+      "r": -0.4031058058987854,
+      "r_squared": 0.16249429074930927,
+      "p_value": 0.04571258632732762,
+      "spearman_rho": -0.1434891351797819,
+      "n_points": 25
+    },
+    {
+      "metric": "data_size_variance",
+      "category": "\u6570\u636e\u91cf",
+      "r": -0.1412708899614939,
+      "r_squared": 0.019957464350512516,
+      "p_value": 0.4733358373783916,
+      "spearman_rho": 0.17323621618223417,
+      "n_points": 28
+    },
+    {
+      "metric": "EMD_label",
+      "category": "\u6807\u7b7e\u5206\u5e03",
+      "r": 0.10774884445021604,
+      "r_squared": 0.011609813480356852,
+      "p_value": 0.7260599137005438,
+      "spearman_rho": 0.43191237558637263,
+      "n_points": 13
+    },
+    {
+      "metric": "label_variance",
+      "category": "\u6807\u7b7e\u5206\u5e03",
+      "r": 0.10513078868245532,
+      "r_squared": 0.011052482728995075,
+      "p_value": 0.594437796829044,
+      "spearman_rho": 0.20804923570210898,
+      "n_points": 28
+    },
+    {
+      "metric": "label_entropy",
+      "category": "\u6807\u7b7e\u5206\u5e03",
+      "r": -0.09648033425380707,
+      "r_squared": 0.009308454897726338,
+      "p_value": 0.6252722383714198,
+      "spearman_rho": -0.20804923570210898,
+      "n_points": 28
+    },
+    {
+      "metric": "alpha_label_value",
+      "category": "\u95f4\u63a5\u6307\u6807",
+      "r": -0.07339726290309491,
+      "r_squared": 0.005387158201666032,
+      "p_value": 0.7105065073510206,
+      "spearman_rho": -0.18231789672551746,
+      "n_points": 28
+    },
+    {
+      "metric": "JS_label",
+      "category": "\u6807\u7b7e\u5206\u5e03",
+      "r": -0.036247853642159496,
+      "r_squared": 0.0013139068936634155,
+      "p_value": 0.8634244761484691,
+      "spearman_rho": 0.09424889576151894,
+      "n_points": 25
+    }
+  ],
+  "total_experiments": 28,
+  "by_source": {
+    "intervention": 5,
+    "k_selection": 12,
+    "domain_blindspot": 3,
+    "metric_comparison": 8
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "invert_ratio": 0.0,
+  "alpha_label": 0.3,
+  "seed": 123,
+  "num_invert_clients": 0,
+  "invert_clients": [],
+  "n_inverted_samples": 0,
+  "metrics_v1_constructed": {
+    "JS_joint": 0.4359382828158005,
+    "JS_label": 0.3376146423527375,
+    "JS_feature": 0.3408602115472875,
+    "JS_conditional": 0.34080414546595755,
+    "EMD_label": 0.8212167999162348,
+    "EMD_feature": 7.5560003918806045,
+    "Cov_basic": 0.0672982,
+    "Cov_weighted": 0.500735276405953
+  },
+  "metrics_v2_recomputed": {
+    "JS_joint": 0.42118326379407145,
+    "JS_label": 0.4180963649517816,
+    "JS_feature": 0.09261911468858464,
+    "JS_conditional": 0.1100456456683451,
+    "EMD_label": 0.9664745564857029,
+    "EMD_feature": 0.28663195075451164,
+    "Cov_basic": 0.2586002,
+    "Cov_weighted": 0.5132712530056472
+  },
+  "k": 10,
+  "note": "v1 = cluster-index shift by +K (constructed); v2 = features re-extracted and re-clustered on transformed images (measured)"
+}

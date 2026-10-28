@@ -1,0 +1,1021 @@
+{
+  "dataset": "cifar10",
+  "method": "scaffold",
+  "alpha_label": 0.1,
+  "alpha_feature": 0.1,
+  "mu": null,
+  "final_accuracy": 0.1,
+  "final_loss": NaN,
+  "metrics": {
+    "JS_joint": 0.5441630762618681,
+    "JS_label": 0.37490473060962093,
+    "JS_feature": 0.42797987508750657,
+    "JS_conditional": 0.49496301198967046,
+    "EMD_label": 1.2231713337932737,
+    "EMD_feature": 11.893270055701011,
+    "Cov_basic": 0.042624760543245176,
+    "Cov_weighted": 0.3511977626882606
+  },
+  "round_log": [
+    {
+      "round": 1,
+      "loss": 2.1718541896820067,
+      "accuracy": 0.2929
+    },
+    {
+      "round": 2,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 3,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 4,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 5,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 6,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 7,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 8,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 9,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 10,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 11,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 12,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 13,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 14,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 15,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 16,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 17,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 18,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 19,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 20,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 21,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 22,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 23,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 24,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 25,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 26,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 27,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 28,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 29,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 30,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 31,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 32,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 33,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 34,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 35,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 36,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 37,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 38,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 39,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 40,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 41,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 42,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 43,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 44,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 45,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 46,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 47,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 48,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 49,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 50,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 51,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 52,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 53,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 54,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 55,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 56,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 57,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 58,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 59,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 60,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 61,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 62,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 63,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 64,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 65,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 66,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 67,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 68,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 69,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 70,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 71,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 72,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 73,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 74,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 75,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 76,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 77,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 78,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 79,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 80,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 81,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 82,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 83,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 84,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 85,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 86,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 87,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 88,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 89,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 90,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 91,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 92,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 93,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 94,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 95,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 96,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 97,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 98,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 99,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 100,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 101,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 102,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 103,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 104,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 105,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 106,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 107,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 108,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 109,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 110,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 111,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 112,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 113,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 114,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 115,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 116,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 117,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 118,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 119,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 120,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 121,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 122,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 123,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 124,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 125,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 126,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 127,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 128,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 129,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 130,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 131,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 132,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 133,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 134,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 135,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 136,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 137,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 138,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 139,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 140,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 141,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 142,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 143,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 144,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 145,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 146,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 147,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 148,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 149,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 150,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 151,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 152,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 153,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 154,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 155,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 156,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 157,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 158,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 159,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 160,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 161,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 162,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 163,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 164,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 165,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 166,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 167,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 168,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 169,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 170,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 171,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 172,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 173,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 174,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 175,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 176,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 177,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 178,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 179,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 180,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 181,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 182,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 183,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 184,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 185,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 186,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 187,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 188,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 189,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 190,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 191,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 192,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 193,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 194,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 195,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 196,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 197,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 198,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 199,
+      "loss": NaN,
+      "accuracy": 0.1
+    },
+    {
+      "round": 200,
+      "loss": NaN,
+      "accuracy": 0.1
+    }
+  ]
+}
